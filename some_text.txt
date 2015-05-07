@@ -3,3 +3,5 @@ This is a notepad for testing
 
 //here we place new stuff once they ready
 First idea how to grab the problem
+
+Second idea how to solve the problem
