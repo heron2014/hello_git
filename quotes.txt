@@ -13,3 +13,5 @@ Oscar wilde
 A gentleman is one who never hurts anyone's feelings unintentionally.
 Oscar Wilde
 
+// Here is gonna be new quote - we are still working on it
+
