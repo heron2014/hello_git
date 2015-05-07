@@ -9,7 +9,7 @@ Mixing both together, italic and bold:
 **_This is awesome_**
 
 
-Headers in Markdown:
+##How to make headers
 
 For example, for a header one, you'd use one hash mark (# Header One),
 while for a header three, you'd use three (### Header Three).
